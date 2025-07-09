@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/darthman/code/simbiote/build/cmake_install.cmake",
+		"/home/darthman/code/simbiote/build/libs/SDL/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

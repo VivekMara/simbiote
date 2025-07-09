@@ -1,0 +1,8 @@
+/home/darthman/code/simbiote/build/CMakeFiles/main.dir
+/home/darthman/code/simbiote/build/CMakeFiles/edit_cache.dir
+/home/darthman/code/simbiote/build/CMakeFiles/rebuild_cache.dir
+/home/darthman/code/simbiote/build/libs/SDL/CMakeFiles/SDL3-shared.dir
+/home/darthman/code/simbiote/build/libs/SDL/CMakeFiles/SDL3_test.dir
+/home/darthman/code/simbiote/build/libs/SDL/CMakeFiles/SDL_uclibc.dir
+/home/darthman/code/simbiote/build/libs/SDL/CMakeFiles/edit_cache.dir
+/home/darthman/code/simbiote/build/libs/SDL/CMakeFiles/rebuild_cache.dir
